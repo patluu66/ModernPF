@@ -1,0 +1,23 @@
+{
+  "name": "modernpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist/myHomepage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patluu66/ModernPF.git"
+  },
+  "author": "Patrick Luu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patluu66/ModernPF/issues"
+  },
+  "homepage": "https://github.com/patluu66/ModernPF",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
