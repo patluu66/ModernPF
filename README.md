@@ -1,2 +1,2 @@
 # ModernPF
-#https://patluu66.github.io/ModernPF/homepage
+https://patluu66.github.io/ModernPF/homepage
